@@ -1,0 +1,19 @@
+{
+    "name": "gabri/php-profissinal",
+    "description": "Php-Profissinal",
+    "autoload": {
+        "files": [
+
+        ],
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Henrique",
+            "email": "gabrielhenriquebatista31@gmail.com"
+        }
+    ],
+    "require": {}
+}
